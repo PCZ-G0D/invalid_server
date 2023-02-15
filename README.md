@@ -1,2 +1,2 @@
 # invalid_server
-1
+本项目为invalid的解析服务器。
